@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "Rocket League",
+      "description": "Welcome to my live stream of Rocket League...",
+      "userId": "118219965593521564111",
+      "id": 1
+    },
+    {
+      "title": "Elden Ring",
+      "description": "Welcome to my live stream of Elden Ring",
+      "userId": "118219965593521564111",
+      "id": 2
+    },
+    {
+      "title": "GTA 5",
+      "description": "Welcome to my live stream of GTA 5",
+      "userId": "105723485398153738377",
+      "id": 3
+    },
+    {
+      "title": "Minecreaft",
+      "description": "Welcome to my live stream of Minecreaft",
+      "userId": "105723485398153738377",
+      "id": 4
+    }
+  ]
+}
